@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568166918989",
+    "firebase_url": "https://cconstruction-project.firebaseio.com",
+    "project_id": "cconstruction-project",
+    "storage_bucket": "cconstruction-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568166918989:android:0fc4497b9769ac4f",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.cconstruction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568166918989-lh1tpbtpv2bbo83pn1tr3kd9v7n5oih9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.cconstruction",
+            "certificate_hash": "ebb46e0ecef6c9dab06d45e11e5f8c631b4ff83f"
+          }
+        },
+        {
+          "client_id": "568166918989-mv2c60n0g88ti62nmcrdr0ftculgij5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIK4sf143hYP9wlOlzavikpNJW0QZrQvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568166918989-mv2c60n0g88ti62nmcrdr0ftculgij5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

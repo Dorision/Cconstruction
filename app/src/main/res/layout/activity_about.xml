@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.codetribe.cconstruction.AboutActivity">
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="Background"
+     android:paddingTop="50dp"
+     android:paddingBottom="25dp"
+     android:textStyle="bold"
+     android:textAllCaps="true"
+     android:textColor="#000000"
+     android:textSize="20dp"
+     android:gravity="center"
+     />
+    <TextView
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="C-Water Construction is a design and construction company which has been in opretion for more than three years so far. The company provide services that range from the initial planning and a design of a bulding is ready for inhabiting. The company has established itself as a dominant player in the residential housing projects.\n\nC Water Construction is led by Mojalefa Maphethu who is a senior architect and a passionate enterpreneur."/>
+
+
+
+
+</LinearLayout>
